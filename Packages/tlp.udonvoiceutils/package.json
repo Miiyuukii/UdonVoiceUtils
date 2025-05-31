@@ -14,7 +14,7 @@
     "url": "https://github.com/Guribo"
   },
   "vpmDependencies": {
-    "com.vrchat.worlds": "~3.7.5",
+    "com.vrchat.worlds": "~3.8.x",
     "tlp.udonutils": "^11.1.0"
   },
   "unity": "2022.3"
