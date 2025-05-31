@@ -1,4 +1,4 @@
-# Udon Voice Utilities
+# Udon Voice Utilities (Bump package.json requirements)
 
 [![Total downloads](https://img.shields.io/github/downloads/Guribo/UdonVoiceUtils/total?style=flat-square&logo=appveyor)](https://github.com/Guribo/UdonVoiceUtils/releases)
 
